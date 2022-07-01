@@ -2,9 +2,12 @@
 
 Made ToDoList App and took it beyond(not really 😅). I added the feature to Login/Signup so everyone can have their data stored on web and access it from anywhere. Also the user will stay logged in until he doesn't logout. I can't specify in the app but long press to delete the task.
 
+
 Let me know any bugs you find, though my code is spaghetti...
 
 Website: [https://to-do-list-firebase-flutter.web.app/#/](https://to-do-list-firebase-flutter.web.app/#/)
+
+APK: [Download Apk](https://github.com/FaizFk/ToDoList_FirebaseLogIn_FlutterApp/releases/download/v1.0.0/ToDoListFirebase.apk)
 
 <img src ="https://github.com/FaizFk/ToDoList_FirebaseLogIn_FlutterApp/blob/main/Snapshots/Screenshot%20(15).png?raw=true">
 
