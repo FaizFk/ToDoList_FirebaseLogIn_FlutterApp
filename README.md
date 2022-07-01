@@ -1,6 +1,6 @@
 # to_do_list_firebase
 
-Made ToDoList App and took it beyond(not really 😅). I added the feature to Login/Signup so everyone can have their data stored on web and access it from anywhere. Also the user will stay logged in until he doesn't logout. 
+Made ToDoList App and took it beyond(not really 😅). I added the feature to Login/Signup so everyone can have their data stored on web and access it from anywhere. Also the user will stay logged in until he doesn't logout. I can't specify in the app but long press to delete the task.
 
 Let me know any bugs you find, though my code is spaghetti...
 
