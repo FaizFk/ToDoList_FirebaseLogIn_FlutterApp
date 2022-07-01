@@ -1,6 +1,15 @@
 # to_do_list_firebase
 
-A new Flutter project.
+Made ToDoList App and took it beyond(not really 😅). I added the feature to Login/Signup so everyone can have their data stored on web and access it from anywhere. Also the user will stay logged in until he doesn't logout. 
+
+Let me know any bugs you find, though my code is spaghetti...
+
+Website: [https://to-do-list-firebase-flutter.web.app/#/](https://to-do-list-firebase-flutter.web.app/#/)
+
+<img src ="https://github.com/FaizFk/ToDoList_FirebaseLogIn_FlutterApp/blob/main/Snapshots/Screenshot%20(15).png?raw=true">
+
+<img src ="https://github.com/FaizFk/ToDoList_FirebaseLogIn_FlutterApp/blob/main/Snapshots/Screenshot%20(16).png?raw=true">
+
 
 ## Getting Started
 
